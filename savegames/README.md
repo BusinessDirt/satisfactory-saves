@@ -9,3 +9,6 @@ Same as Base Game but with *S*lugs, *D*rives and *A*rtifacts cleared and stored 
 
 ## OS-SDA 
 Same as SDA but with Onboarding skipped. All Materials are stored in a container
+
+## OS-SDA-AU
+Same as OS-SDA but with all alternative recipes unlocked
